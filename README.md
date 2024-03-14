@@ -2,10 +2,10 @@
 ## Overview
 This is a simple task scheduling program implemented in C. It allows users to add tasks with priorities, due dates, and notes. Users can mark tasks as completed, delete tasks, view tasks, view completed tasks, and receive helpful tips for effective task management.
 
-## Features
-Task Management: Add, mark as completed, and delete tasks.
-Priority Queue: Tasks are managed using a priority queue data structure based on their priority.
-User Interface: Simple command-line interface for user interaction.
+## Features<br>
+Task Management: Add, mark as completed, and delete tasks.<br>
+Priority Queue: Tasks are managed using a priority queue data structure based on their priority.<br>
+User Interface: Simple command-line interface for user interaction.<br>
 Tips: Provides helpful tips for effective task management.
 ## Usage
 Compile the program using a C compiler.
